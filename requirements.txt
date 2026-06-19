@@ -1,0 +1,17 @@
+# Edge UI Dashboard
+gradio>=4.0.0
+
+# Intel Hardware Acceleration & Quantization
+openvino>=2024.0.0
+optimum-intel
+nncf
+
+# Vision Pipeline (YOLOv8)
+ultralytics
+opencv-python-headless
+numpy
+
+# Language Pipeline (TinyLlama)
+transformers
+torch
+torchvision

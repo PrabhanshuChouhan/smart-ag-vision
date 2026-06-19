@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+PlantVillage-1/
+runs/
+tinyllama_int4/
+*.pt
+*.xml
+*.bin
